@@ -1,0 +1,129 @@
+{
+  "cookies": [
+    {
+      "name": "_ga",
+      "value": "GA1.1.274936108.1714061087",
+      "domain": ".ctrader.com",
+      "path": "/",
+      "expires": 1748621086.824216,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga_HSN7E71Y43",
+      "value": "GS1.1.1714061086.1.1.1714061099.0.0.0",
+      "domain": ".ctrader.com",
+      "path": "/",
+      "expires": 1748621099.645633,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "XSRF-TOKEN",
+      "value": "eyJpdiI6IjE2bzFLOWM2aVJhYVkxb3VXMHVDUVE9PSIsInZhbHVlIjoidG1QMG9DNkE0SjdXQ29KYk1CcHJSR213MjAwQUJ1NDVvSXlQYmVReWVEV1FKajg4Uk5kdjBZK09wSU9ISE1LdEpjQWpEbDYwcHJGRnJQVDNsNUlFa0haZ09HRXJ5b20xZVRFUWxDOUJUUVZPZzFUTDJYYjV6T1NudGVLaml3enYiLCJtYWMiOiIxZTE1NmI5MGQxYjQ5MDc3NDEwOThhOTM3NjYyYWVjYTNlNGU3MTc5YTg0M2Y5YmNiZjcwN2UwMDIzOTlkOTJlIiwidGFnIjoiIn0%3D",
+      "domain": "id.ctrader.com",
+      "path": "/",
+      "expires": 1729613100.097534,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "laravel_session",
+      "value": "eyJpdiI6InYvV0pGY1hrcFJZL3hJNm5yZGx1Unc9PSIsInZhbHVlIjoibWxSMDJ6dmJReGNTRDFhS3hUTnFLSjMxalRJeWZtZWs2ZjE0NU9zd2JVdWU1MHBoa3pVempUMndCVlkwTFFLYTc5YnRhbTQ4Q2tqWXNmSEF5Vk5vS2h6K1ZjeTBDc1JVTmdtZXdjUU1uaXpxbHVrMDcxclYzcVBBMGtKOEVTWlEiLCJtYWMiOiJkMDkxMGQ4ZmI2NGY2YTM0MDE2MWMxOWE2MzNiMDA2ZjhlNTEzZmFiZDE0MTg3MzExMzMwZWM4ODYyYWUyNWYxIiwidGFnIjoiIn0%3D",
+      "domain": "id.ctrader.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "plantId",
+      "value": "eyJpdiI6Ill2MzFmTzdwOXZ3R0R0ZHBER0tzUHc9PSIsInZhbHVlIjoic25yRXV3MWJ4VjU2MVJ1YVozVU9vcXNuQjdidVgwMHRSQ1lJNElhMHV0U091UW1kVnFwSVFMTC95THRJbUJMRElTUXNFZnlZVjhrVXJKbWdKTzVaenc9PSIsIm1hYyI6IjhjYTIwMGJmNjI2M2UwZTA4NWIwOTk5ZmJkZGJkZmM4ZDllYzFkZGYyZDY3OTc5ODVjZWNjNmE4NThkMjdhNTYiLCJ0YWciOiIifQ%3D%3D",
+      "domain": "id.ctrader.com",
+      "path": "/",
+      "expires": 1745597100.098081,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "visited",
+      "value": "eyJpdiI6IklHY1czMERXdzNTNU02VGRCZG42ZHc9PSIsInZhbHVlIjoiZFJnYVJpSE5IKzlPOXZCU3FhMmFlVVhVY0t2cWk0VnIyRjRFY1FvcTA4N1F1QkJpZzN6ckVtNTFneTJ6UWtJbC94Y0lKR1ZrQlhmcklNRUpLTkhBR3c9PSIsIm1hYyI6IjNlMTExNjM2MmY0ZGRlZDhmYzdkNjdhODMwYWUyYjMxZjQ4Zjc5ZWMwNTNhZmEwNTkzMzcxNGZkNjJmN2Q1MzUiLCJ0YWciOiIifQ%3D%3D",
+      "domain": "id.ctrader.com",
+      "path": "/",
+      "expires": 1748621100.09834,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "oLbiyLG2olgChzkKuO6QIfbkIjZRZXFFwBPElJTp",
+      "value": "eyJpdiI6InpBTkpVSWFFVjVqYXQvTG90K1gzSGc9PSIsInZhbHVlIjoiYkJKSnNSVXNkS1ZBc012alBLK1Y0aythMnM0Z015SEgwSmp2THBhNWxaV0Z5RldlYk1DTEVvWWplVlF1dEZsUzVGNzJMWUJiUUpEK2wwL2REaUFQMGZjYWRpd05tbWVOaEI1QklaLzl5ZHlkUE5NRDVkTXI1emZ1SFdZZzF4cjhGcE52b2s0Mno2Zjc2OTZoRVJFU3BmWlpNamQwbzV1bU5DS0hoMUpqbkw0Ykw4OVRxYmlneXFad1JxenBxZ2M0OHRrUWZya3pYWU1ndW5FdHdKSmlLaW8xd2xEOHU1cEZmR2NzUldqN0QxOUhselNqdzlEdnhOVjV1Z0ovUGVrbHVGTFo4LzF4ME9kNzlzL3VnY2kwV3ZySWFINXJqYmZZdHkxRzJrUnlzZEhXMllmOVg0YmpWQ0J2RkdYSGFxSnFwbWkxckdZbmJVR2lNRFlXVEpDa0N0NU9hQnFSNzhPWTZyYkFiYmdhVHRTMHdFQzNmbDkwdlVKcW9QSzdLTTA5VkkyaVFxaFh0UkRpcThLSkE3cUp4LzNObHBoUklCSHBQOTkwdG9WTjVxV0NyQkZGM2NCbmMzQVhLTG5xb0F5WDZ4Snl3Mi82NVZzQ2IzVmpjSTVHQVYzcjJBVmhIbWV1dVFjcUplb1ZCZWQ5dXppU0E2d0dEUXNCQStFbmJwWEpvWURVWTcrSXB5eUxHM1l2Z2JHNHJSOUk4dnlMZ1VHeDVNcm1uUFhZaCswK3ltWGw0MFJIT28xdTBMUWNFeHB0R2cxd2FlTE5CMncra1pkTXgrbUdFazB3Zk9YTlJZNXplZGFUYzdsdE5QaXNaNjVzcDY2TnNSeTh4STNmTWVxa1hCanZxT3MzRDhhV2RMc3hkb2QvUWIrM1pKeWhoQU1jMjJDZXlZOTNEb1hZSHFoMEY5bVZrZ2lyOG9aU2Y4bnhiL3c0MWtIUjhyZ0Z0V2ZlZ0RFUUJxaGhlMUlPZGJMcHVLd21iYkxEa1hmSEV3d08xWGZKYzQvQko2MmFUNGNVY1JDUk8wSUl2dU1nQWp4L1UwSzJtQjVqNTl0czlCSU9jc1NaRDhtSk9HTUZRa2lUMlBFUVZsbGVYMDFrT0Q2VUdBUTFxMVdTRWJvQUpnTi9WQ1hQa0RkR3hqK3EvZjh0VE01VXgrWTRsRnVMaWZIcm0xRTZpNENYMHhYTzdleVZabnJsczZEQ0EzMThWSmpXamIyTDlCb1lUUHB6QXpoZU41M0NROEZQUjgxTC82L0VjUnJmRjhWOVVxcG9heHZJdjJoK2M5L3dZZFRwdTIwRDVINVhhOGFMZlFpY2ZzOFZXWGQyQlAxZkJReUJqSWhwK2lMaFkrOWZlOWZtQmp5NTJDVVIzdGRpUmF6T3BmUmk5aklUWEl6c0JsaE9mNkRWSWFHRyt6TjR3RW89IiwibWFjIjoiZTk5OGM0MThhZjBhNzNhOTI2NTAwN2FhNjQ2N2VlNmZkNjE0NzVjMGEwY2JkNDVmY2Y4NGQxZTAwZDAzNzU4OCIsInRhZyI6IiJ9",
+      "domain": "id.ctrader.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://app.ctrader.com",
+      "localStorage": [
+        {
+          "name": "guiSettings",
+          "value": "{\"version\":\"5ca33a4d-770a-4bb2-a888-5f016393956f\",\"guiSettings\":{\"Format\":1,\"ImmutableSimplifiedBrokerName\":\"Spotware\",\"DemoDepositCurrenciesSettingsSection\":{\"CurrencyPerCountryIsoRules\":{\"CY\":\"EUR\",\"US\":\"USD\",\"GB\":\"GBP\"},\"AllowedDepositCurrencies\":[\"AUD\",\"CHF\",\"EUR\",\"GBP\",\"JPY\",\"USD\",\"BTC\",\"ETH\"],\"DefaultDepositCurrency\":\"EUR\"},\"LiveDepositCurrenciesSettingsSection\":{\"CurrencyPerCountryIsoRules\":{\"CY\":\"EUR\",\"US\":\"USD\",\"GB\":\"GBP\"},\"AllowedDepositCurrencies\":[\"AUD\",\"CHF\",\"EUR\",\"GBP\",\"JPY\",\"USD\",\"RUB\",\"BTC\",\"ETH\"],\"DefaultDepositCurrency\":\"EUR\"},\"PopularMarketsPerCountry\":{\"Sets\":[{\"CountriesAlpha2Codes\":[\"GB\"],\"OrderedSymbolNames\":[\"GBPUSD\",\"GBPJPY\",\"GBPAUD\",\"GBPCAD\",\"GBPNZD\",\"GBPZAR\",\"GBPCHF\",\"GBPSGD\",\"GBPNOK\",\"GBPSEK\",\"GBPDKK\",\"GBPTRY\",\"GBPPLN\",\"UK 100\"]},{\"CountriesAlpha2Codes\":[\"CY\"],\"OrderedSymbolNames\":[\"EURUSD\",\"EURJPY\",\"EURGBP\",\"EURCHF\",\"EURAUD\",\"EURCAD\",\"EURRUB\",\"EURSEK\",\"EURPLN\",\"EURMXN\",\"EURDKK\",\"EURHUF\",\"EURNOK\",\"EURHKD\",\"EURZAR\",\"EURCZK\",\"EURNZD\",\"EURTRY\",\"EURCNH\",\"EURRON\",\"EURSGD\"]}],\"DefaultOrderedSymbolNames\":[]},\"Jurisdiction\":{\"Id\":13},\"CreateDemoAccount\":{\"AllowedAccountTypes\":\"HedgedAndNetted\",\"DefaultDeposit\":1000,\"DefaultLeverage\":100,\"AllowCreationOfAdditionalDemoAccounts\":true,\"DemoAccountCreationMethod\":\"InApp\",\"DefaultGroupId\":1000,\"TutorialWeekdaySymbolId\":0,\"TutorialWeekendSymbolId\":0,\"CreateAccountUrl\":\"http://\"},\"CreateLiveAccount\":{\"AllowedAccountTypes\":\"Hedged\",\"DefaultLeverage\":100,\"AllowCreationOfAdditionalLiveAccounts\":false,\"LiveAccountCreationMethod\":\"Url\",\"AccessRights\":\"FullAccess\",\"DefaultGroupId\":null,\"CreateAccountUrl\":\"https://www.spotware.com/featured-ctrader-brokers\"},\"Charts\":{\"DefaultChartMode\":\"MultiChart\",\"ChartsSettings\":[{\"Symbol\":\"EURUSD\",\"TimeFrame\":\"Hour\",\"Id\":\"7e47a849-71c9-4f54-a7a8-d47fbf788a55\",\"ZoomLevel\":3,\"ChartType\":\"LineCharts\",\"EnableBackgroundImage\":true,\"BackgroundImageOpacity\":0.2,\"ShowPeriodSeparators\":true,\"ShowTickVolume\":true,\"ShowDealMap\":true,\"ShowChartScale\":true,\"Indicators\":[],\"CBots\":[{\"Name\":\"Sample Martingale cBot\"},{\"Name\":\"Sample RSI cBot\"}],\"ImageUrl\":\"http://dl-bg.spotware.com/cTrader/cT-bg3_no_bkg.png\",\"ShowPriceAlerts\":true,\"ShowPositions\":true,\"ShowGrid\":true,\"ShowQuickTradeButtons\":true,\"ShowPriceAxisOverlayButtons\":true,\"ShowOrders\":true,\"ShowBidPriceLine\":true,\"ShowAskPriceLine\":true},{\"Symbol\":\"GBPJPY\",\"TimeFrame\":\"Hour\",\"Id\":\"66c0a604-61ee-4132-9fb5-8d4edb6a06d3\",\"ZoomLevel\":3,\"ChartType\":\"CandleStick\",\"EnableBackgroundImage\":true,\"BackgroundImageOpacity\":0.2,\"ShowPeriodSeparators\":false,\"ShowTickVolume\":false,\"ShowDealMap\":true,\"ShowChartScale\":true,\"Indicators\":[{\"Guid\":\"73499676-344F-414E-8349-54D5A7BDC1B4\",\"Name\":\"Ichimoku Kinko Hyo\"}],\"CBots\":[],\"ImageUrl\":\"http://dl-bg.spotware.com/cTrader/cT-bg3_no_bkg.png\",\"ShowPriceAlerts\":true,\"ShowPositions\":true,\"ShowGrid\":true,\"ShowQuickTradeButtons\":true,\"ShowPriceAxisOverlayButtons\":true,\"ShowOrders\":true,\"ShowBidPriceLine\":true,\"ShowAskPriceLine\":true},{\"Symbol\":\"EURJPY\",\"TimeFrame\":\"Hour\",\"Id\":\"67acbe5f-4c58-48b6-bdea-abbd3c30e368\",\"ZoomLevel\":3,\"ChartType\":\"CandleStick\",\"EnableBackgroundImage\":true,\"BackgroundImageOpacity\":0.2,\"ShowPeriodSeparators\":true,\"ShowTickVolume\":true,\"ShowDealMap\":true,\"ShowChartScale\":true,\"Indicators\":[],\"CBots\":[],\"ImageUrl\":\"http://dl-bg.spotware.com/cTrader/cT-bg3_no_bkg.png\",\"ShowPriceAlerts\":true,\"ShowPositions\":true,\"ShowGrid\":true,\"ShowQuickTradeButtons\":true,\"ShowPriceAxisOverlayButtons\":true,\"ShowOrders\":true,\"ShowBidPriceLine\":true,\"ShowAskPriceLine\":true},{\"Symbol\":\"USDJPY\",\"TimeFrame\":\"Hour\",\"Id\":\"29b473ec-db95-4b51-bc55-4ed70e77e408\",\"ZoomLevel\":0,\"ChartType\":\"DotsChart\",\"EnableBackgroundImage\":true,\"BackgroundImageOpacity\":0.2,\"ShowPeriodSeparators\":true,\"ShowTickVolume\":true,\"ShowDealMap\":true,\"ShowChartScale\":true,\"Indicators\":[],\"CBots\":[],\"ImageUrl\":\"http://dl-bg.spotware.com/cTrader/cT-bg3_no_bkg.png\",\"ShowPriceAlerts\":true,\"ShowPositions\":true,\"ShowGrid\":true,\"ShowQuickTradeButtons\":true,\"ShowPriceAxisOverlayButtons\":true,\"ShowOrders\":true,\"ShowBidPriceLine\":true,\"ShowAskPriceLine\":true}],\"DefaultChartSettings\":{\"ZoomLevel\":3,\"ChartType\":\"CandleStick\",\"EnableBackgroundImage\":true,\"BackgroundImageOpacity\":0.2,\"ShowPeriodSeparators\":true,\"ShowTickVolume\":true,\"ShowDealMap\":true,\"ShowChartScale\":true,\"Indicators\":[],\"CBots\":[],\"ImageUrl\":\"http://dl-bg.spotware.com/cTrader/cT-bg3_no_bkg.png\",\"ShowPriceAlerts\":true,\"ShowPositions\":true,\"ShowGrid\":true,\"ShowQuickTradeButtons\":true,\"ShowPriceAxisOverlayButtons\":true,\"ShowOrders\":true,\"ShowBidPriceLine\":true,\"ShowAskPriceLine\":true}},\"FundsManagement\":{\"DepositWireTransfer\":{\"OpenWebPage\":true,\"OpenWebPageUrl\":\"http://spotware.com\"},\"RequestWithdrawal\":{\"OpenWebPage\":true,\"Url\":\"http://spotware.com\",\"AllowRequestsFromApplication\":false},\"DemoDepositWithdrawal\":{\"OpenWebPage\":false,\"DepositUrl\":\"http://asd.asd\",\"WithdrawalUrl\":\"http://asd.asd\",\"AllowDemoDepositWithdrawalFromApplication\":true}},\"UserTimeOffset\":{\"OffsetInMinutes\":0},\"ColorScheme\":{\"ApplicationTheme\":\"Dark\",\"ChartTheme\":\"Dark\"},\"ApplicationLayout\":{\"LayoutMode\":\"Default\"},\"StartupActions\":{\"OpenWebpageOnStartup\":false,\"StartupUrl\":\"http://spotware.com\",\"ShowCTraderIntroductionVideo\":false,\"ShowWhatNewOnStartup\":true,\"ShowOneClickTradingOnFirstTrader\":true},\"CTID\":{\"SelectDepositCurrencyBasedOnGeoIP\":false,\"FirstAccountCreationMethod\":\"AutoCreateDemoAccount\",\"CreateFirstDemoAccountUrl\":null,\"CreateFirstLiveAccountUrl\":null},\"MarketWatch\":{\"ShowDailyChange\":true,\"ShowInfoOnMouseOver\":true},\"AdditionalTabInTradeWatch\":{\"IsActive\":false,\"Title\":\"Yahoo Finance\",\"Icon\":\"iVBORw0KGgoAAAANSUhEUgAAABQAAAAPCAYAAADkmO9VAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAAYdEVYdFNvZnR3YXJlAHBhaW50Lm5ldCA0LjAuNWWFMmUAAAMqSURBVDhPdZRfbFN1FMfPvb33tmOJJL7wrD745pMKXVvocN3WdXRd2coY8WH4bkhM0GSydZsbDMaQZQ5do4BjLkOGVTumxoxpcVr/xD8P4kKQxD8BQyYJGYtG48dzr8GXlpuc3JPz+/0+v+/vnN/5CSCu1Rh9d5LW9EJCTh9vt/N7u+/jIbnH17uRBzP2fFdK3jqetGYW3LV3OR7MA0ofW2WEenlN/4d5XEZ5VGNhs49t5iFqzaNEzAGCcpTH5BB1coKY5IjIkMZ6FfEf539gWA7SLGdJywUaJE9h6jLj+0u6aJak/SY77FmFvMHYMyXeOfU9jfI2LUZexyepkf5yYERVpeU9Oo3PSEmRD6euu5N4alORdllkl1yk6/6iF1s8c51WWabDLNKim0dkuBzoHjdtKNAssUetQS7xz19w5avbJORjtSJXvrwNf6PqlnnS9wW7fB/RbMzqkbOVFA6TMgrs9n1Cp32JNoVMPL3iKepp+oae+Neef2LfChkF7nE+JWMt0mROV85hRHOYNOa8SR3OErv9S5qfD1j95Q9+u7bOjR/X+f3XPzX2Pp2BJTr8F0lbBeK+04SMgUpFGSJhztBqv8tOp0BboKA5nSebXvaUuV//zpLmrkCmakHH50nZczRYOcLGUCXgII3mSa+iLc45WgPnSVefJ6qVv3F1TRWuUat+e3WedNUcKf85ks5ZYtaEKhwsB4ZkkJg5Sdw6RcKZYkdgmpYNMzwhU/xQusnK5zc9v7Var1HVGZr9r9NonyTmm0AvdjmwRiu13Rj3dqy3XyHuz5EIvEpYXubqt6tc+27V85s25IgHcjQ6OW9e1BzRe1ihykG3U4wjRH0jbLdGqXPGiPnHtCtG+enyLX5euaX+MRoCL1HvH6fOHqPWOsZW7aKg9JQr3KLBkN74sPkCEd8QUXuYWucIj8iAVtqt8Lrnu7GofZht1rC24kE9bhZ3bVnrbZEDbJZuNhvdBM0DhHxZIla/Wh8Py7Nq+wnbvWpZQpaOa48HjR7t+ecU+HyFHBrZO01W7kK9TL6YsfNd7otyr9dmYCMPtNlzXe5cd03QyK7dVfgvorCVoRCBn0oAAAAASUVORK5CYII=\",\"DarkContentUrl\":\"http://finance.yahoo.com/\",\"LightContentUrl\":\"http://finance.yahoo.com/\"},\"Links\":{\"AdditionalHelpMenu\":{\"IsEnabled\":true,\"HelpName\":\"Go to spotware.com\",\"HelpUrl\":\"http://www.spotware.com/\"},\"AdditionalLinksMenu\":{\"IsEnabled\":true,\"GroupName\":\"Privacy Policy\",\"Link1\":{\"Name\":\"Privacy Policy\",\"Url\":\"https://www.spotware.com/privacy-policy\",\"IsEnabled\":true},\"Link2\":{\"Name\":null,\"Url\":\"http://\",\"IsEnabled\":false},\"Link3\":{\"Name\":null,\"Url\":\"http://\",\"IsEnabled\":false}}},\"Leverages\":{\"AllowedLeverages\":[1,2,5,10,20,25,30,50,75,100,200,400,500,1000]},\"Language\":{\"CultureName\":\"en-US\",\"AutomaticallyDetectCulture\":true},\"ProfileManagement\":{\"IsEnabled\":false,\"IsFluidOnboardingEnabled\":false,\"UserAgreementUrl\":\"http://\",\"RiskDisclosureUrl\":\"http://\",\"OrderExecutionPolicyUrl\":\"http://\",\"PrivacyAndCookiePolicyUrl\":\"http://\",\"DocsEmail\":null},\"IntroducingBrokers\":{\"EnableGiveBonus\":false,\"EnablePartnerCenter\":false,\"EnablePartnerAgreement\":false,\"PartnerAgreementUrl\":\"http://\"},\"ChangingAccountProperties\":{\"Currency\":true,\"Leverage\":true,\"AccountType\":true},\"BrokerOAuth\":{\"DemoAccountCreationPageUrl\":\"\",\"LiveAccountCreationPageUrl\":\"\",\"CredentialsChangingPageUrl\":\"\",\"AccountDeletionPageUrl\":\"\",\"FirstAccountType\":\"Live\",\"FirstDemoAccountCreationMethod\":\"Url\",\"AllowCreationOfAdditionalDemoAccountsInBrokerOAuth\":false,\"AdditionalDemoAccountCreationMethod\":\"Url\",\"InAppDemoAccountDefaultGroupId\":1000,\"InAppDemoAccountAllowedAccountTypes\":\"HedgedAndNetted\",\"InAppDemoAccountDefaultLeverage\":100,\"InAppDemoAccountDefaultDeposit\":1000,\"AllowDemoAccountsDeposit\":false,\"DemoAccountsDepositPageUrl\":\"\",\"AllowDemoAccountsWithdrawal\":false,\"DemoAccountsWithdrawalPageUrl\":\"\",\"LiveAccountsDepositPageUrl\":\"\",\"LiveAccountsWithdrawalPageUrl\":\"\"},\"ContactInformation\":{\"ContactPhone\":\"+357 25 344901\",\"ContactFax\":\"+357 25 345422\",\"ContactWeb\":\"https://spotware.com\",\"ContactEmail\":\"info@ctrader.com\"},\"Type\":\"Gui\"}}"
+        },
+        {
+          "name": "connection:keepLoggedIn",
+          "value": "true"
+        },
+        {
+          "name": "connection:encryptedAuthToken",
+          "value": "|{W,\u0000\u0001&1\"XMg(l=\u0003\u0017\u00101k<$[<45\u0011D\u0014\u0002*\u001fu_~f\n'\u001b\\~\u001d`"
+        },
+        {
+          "name": "market-chart-list-data",
+          "value": "[{\"symbolId\":1,\"symbolName\":\"EURUSD\",\"period\":\"H1\"},{\"symbolId\":22395,\"symbolName\":\"BTCUSD\",\"period\":\"H1\"},{\"symbolId\":3,\"symbolName\":\"EURJPY\",\"period\":\"H1\"},{\"symbolId\":4,\"symbolName\":\"USDJPY\",\"period\":\"H1\"}]"
+        },
+        {
+          "name": "current-account-data",
+          "value": "{\"brokerName\":\"Spotware\",\"plantId\":\"ctrader\",\"traderId\":1845710,\"environment\":\"demo\"}"
+        },
+        {
+          "name": "publicGuiSettings_Spotware",
+          "value": "{\"version\":\"5ca33a4d-770a-4bb2-a888-5f016393956f\",\"guiSettings\":{\"Format\":1,\"ImmutableSimplifiedBrokerName\":\"Spotware\",\"DemoDepositCurrenciesSettingsSection\":{\"CurrencyPerCountryIsoRules\":{\"CY\":\"EUR\",\"US\":\"USD\",\"GB\":\"GBP\"},\"AllowedDepositCurrencies\":[\"AUD\",\"CHF\",\"EUR\",\"GBP\",\"JPY\",\"USD\",\"BTC\",\"ETH\"],\"DefaultDepositCurrency\":\"EUR\"},\"LiveDepositCurrenciesSettingsSection\":{\"CurrencyPerCountryIsoRules\":{\"CY\":\"EUR\",\"US\":\"USD\",\"GB\":\"GBP\"},\"AllowedDepositCurrencies\":[\"AUD\",\"CHF\",\"EUR\",\"GBP\",\"JPY\",\"USD\",\"RUB\",\"BTC\",\"ETH\"],\"DefaultDepositCurrency\":\"EUR\"},\"PopularMarketsPerCountry\":{\"Sets\":[{\"CountriesAlpha2Codes\":[\"GB\"],\"OrderedSymbolNames\":[\"GBPUSD\",\"GBPJPY\",\"GBPAUD\",\"GBPCAD\",\"GBPNZD\",\"GBPZAR\",\"GBPCHF\",\"GBPSGD\",\"GBPNOK\",\"GBPSEK\",\"GBPDKK\",\"GBPTRY\",\"GBPPLN\",\"UK 100\"]},{\"CountriesAlpha2Codes\":[\"CY\"],\"OrderedSymbolNames\":[\"EURUSD\",\"EURJPY\",\"EURGBP\",\"EURCHF\",\"EURAUD\",\"EURCAD\",\"EURRUB\",\"EURSEK\",\"EURPLN\",\"EURMXN\",\"EURDKK\",\"EURHUF\",\"EURNOK\",\"EURHKD\",\"EURZAR\",\"EURCZK\",\"EURNZD\",\"EURTRY\",\"EURCNH\",\"EURRON\",\"EURSGD\"]}],\"DefaultOrderedSymbolNames\":[]},\"Jurisdiction\":{\"Id\":13},\"CreateDemoAccount\":{\"AllowedAccountTypes\":\"HedgedAndNetted\",\"DefaultDeposit\":1000,\"DefaultLeverage\":100,\"AllowCreationOfAdditionalDemoAccounts\":true,\"DemoAccountCreationMethod\":\"InApp\",\"DefaultGroupId\":1000,\"TutorialWeekdaySymbolId\":0,\"TutorialWeekendSymbolId\":0,\"CreateAccountUrl\":\"http://\"},\"CreateLiveAccount\":{\"AllowedAccountTypes\":\"Hedged\",\"DefaultLeverage\":100,\"AllowCreationOfAdditionalLiveAccounts\":false,\"LiveAccountCreationMethod\":\"Url\",\"AccessRights\":\"FullAccess\",\"DefaultGroupId\":null,\"CreateAccountUrl\":\"https://www.spotware.com/featured-ctrader-brokers\"},\"Charts\":{\"DefaultChartMode\":\"MultiChart\",\"ChartsSettings\":[{\"Symbol\":\"EURUSD\",\"TimeFrame\":\"Hour\",\"Id\":\"7e47a849-71c9-4f54-a7a8-d47fbf788a55\",\"ZoomLevel\":3,\"ChartType\":\"LineCharts\",\"EnableBackgroundImage\":true,\"BackgroundImageOpacity\":0.2,\"ShowPeriodSeparators\":true,\"ShowTickVolume\":true,\"ShowDealMap\":true,\"ShowChartScale\":true,\"Indicators\":[],\"CBots\":[{\"Name\":\"Sample Martingale cBot\"},{\"Name\":\"Sample RSI cBot\"}],\"ImageUrl\":\"http://dl-bg.spotware.com/cTrader/cT-bg3_no_bkg.png\",\"ShowPriceAlerts\":true,\"ShowPositions\":true,\"ShowGrid\":true,\"ShowQuickTradeButtons\":true,\"ShowPriceAxisOverlayButtons\":true,\"ShowOrders\":true,\"ShowBidPriceLine\":true,\"ShowAskPriceLine\":true},{\"Symbol\":\"GBPJPY\",\"TimeFrame\":\"Hour\",\"Id\":\"66c0a604-61ee-4132-9fb5-8d4edb6a06d3\",\"ZoomLevel\":3,\"ChartType\":\"CandleStick\",\"EnableBackgroundImage\":true,\"BackgroundImageOpacity\":0.2,\"ShowPeriodSeparators\":false,\"ShowTickVolume\":false,\"ShowDealMap\":true,\"ShowChartScale\":true,\"Indicators\":[{\"Guid\":\"73499676-344F-414E-8349-54D5A7BDC1B4\",\"Name\":\"Ichimoku Kinko Hyo\"}],\"CBots\":[],\"ImageUrl\":\"http://dl-bg.spotware.com/cTrader/cT-bg3_no_bkg.png\",\"ShowPriceAlerts\":true,\"ShowPositions\":true,\"ShowGrid\":true,\"ShowQuickTradeButtons\":true,\"ShowPriceAxisOverlayButtons\":true,\"ShowOrders\":true,\"ShowBidPriceLine\":true,\"ShowAskPriceLine\":true},{\"Symbol\":\"EURJPY\",\"TimeFrame\":\"Hour\",\"Id\":\"67acbe5f-4c58-48b6-bdea-abbd3c30e368\",\"ZoomLevel\":3,\"ChartType\":\"CandleStick\",\"EnableBackgroundImage\":true,\"BackgroundImageOpacity\":0.2,\"ShowPeriodSeparators\":true,\"ShowTickVolume\":true,\"ShowDealMap\":true,\"ShowChartScale\":true,\"Indicators\":[],\"CBots\":[],\"ImageUrl\":\"http://dl-bg.spotware.com/cTrader/cT-bg3_no_bkg.png\",\"ShowPriceAlerts\":true,\"ShowPositions\":true,\"ShowGrid\":true,\"ShowQuickTradeButtons\":true,\"ShowPriceAxisOverlayButtons\":true,\"ShowOrders\":true,\"ShowBidPriceLine\":true,\"ShowAskPriceLine\":true},{\"Symbol\":\"USDJPY\",\"TimeFrame\":\"Hour\",\"Id\":\"29b473ec-db95-4b51-bc55-4ed70e77e408\",\"ZoomLevel\":0,\"ChartType\":\"DotsChart\",\"EnableBackgroundImage\":true,\"BackgroundImageOpacity\":0.2,\"ShowPeriodSeparators\":true,\"ShowTickVolume\":true,\"ShowDealMap\":true,\"ShowChartScale\":true,\"Indicators\":[],\"CBots\":[],\"ImageUrl\":\"http://dl-bg.spotware.com/cTrader/cT-bg3_no_bkg.png\",\"ShowPriceAlerts\":true,\"ShowPositions\":true,\"ShowGrid\":true,\"ShowQuickTradeButtons\":true,\"ShowPriceAxisOverlayButtons\":true,\"ShowOrders\":true,\"ShowBidPriceLine\":true,\"ShowAskPriceLine\":true}],\"DefaultChartSettings\":{\"ZoomLevel\":3,\"ChartType\":\"CandleStick\",\"EnableBackgroundImage\":true,\"BackgroundImageOpacity\":0.2,\"ShowPeriodSeparators\":true,\"ShowTickVolume\":true,\"ShowDealMap\":true,\"ShowChartScale\":true,\"Indicators\":[],\"CBots\":[],\"ImageUrl\":\"http://dl-bg.spotware.com/cTrader/cT-bg3_no_bkg.png\",\"ShowPriceAlerts\":true,\"ShowPositions\":true,\"ShowGrid\":true,\"ShowQuickTradeButtons\":true,\"ShowPriceAxisOverlayButtons\":true,\"ShowOrders\":true,\"ShowBidPriceLine\":true,\"ShowAskPriceLine\":true}},\"FundsManagement\":{\"DepositWireTransfer\":{\"OpenWebPage\":true,\"OpenWebPageUrl\":\"http://spotware.com\"},\"RequestWithdrawal\":{\"OpenWebPage\":true,\"Url\":\"http://spotware.com\",\"AllowRequestsFromApplication\":false},\"DemoDepositWithdrawal\":{\"OpenWebPage\":false,\"DepositUrl\":\"http://asd.asd\",\"WithdrawalUrl\":\"http://asd.asd\",\"AllowDemoDepositWithdrawalFromApplication\":true}},\"UserTimeOffset\":{\"OffsetInMinutes\":0},\"ColorScheme\":{\"ApplicationTheme\":\"Dark\",\"ChartTheme\":\"Dark\"},\"ApplicationLayout\":{\"LayoutMode\":\"Default\"},\"StartupActions\":{\"OpenWebpageOnStartup\":false,\"StartupUrl\":\"http://spotware.com\",\"ShowCTraderIntroductionVideo\":false,\"ShowWhatNewOnStartup\":true,\"ShowOneClickTradingOnFirstTrader\":true},\"CTID\":{\"SelectDepositCurrencyBasedOnGeoIP\":false,\"FirstAccountCreationMethod\":\"AutoCreateDemoAccount\",\"CreateFirstDemoAccountUrl\":null,\"CreateFirstLiveAccountUrl\":null},\"MarketWatch\":{\"ShowDailyChange\":true,\"ShowInfoOnMouseOver\":true},\"AdditionalTabInTradeWatch\":{\"IsActive\":false,\"Title\":\"Yahoo Finance\",\"Icon\":\"iVBORw0KGgoAAAANSUhEUgAAABQAAAAPCAYAAADkmO9VAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAAYdEVYdFNvZnR3YXJlAHBhaW50Lm5ldCA0LjAuNWWFMmUAAAMqSURBVDhPdZRfbFN1FMfPvb33tmOJJL7wrD745pMKXVvocN3WdXRd2coY8WH4bkhM0GSydZsbDMaQZQ5do4BjLkOGVTumxoxpcVr/xD8P4kKQxD8BQyYJGYtG48dzr8GXlpuc3JPz+/0+v+/vnN/5CSCu1Rh9d5LW9EJCTh9vt/N7u+/jIbnH17uRBzP2fFdK3jqetGYW3LV3OR7MA0ofW2WEenlN/4d5XEZ5VGNhs49t5iFqzaNEzAGCcpTH5BB1coKY5IjIkMZ6FfEf539gWA7SLGdJywUaJE9h6jLj+0u6aJak/SY77FmFvMHYMyXeOfU9jfI2LUZexyepkf5yYERVpeU9Oo3PSEmRD6euu5N4alORdllkl1yk6/6iF1s8c51WWabDLNKim0dkuBzoHjdtKNAssUetQS7xz19w5avbJORjtSJXvrwNf6PqlnnS9wW7fB/RbMzqkbOVFA6TMgrs9n1Cp32JNoVMPL3iKepp+oae+Neef2LfChkF7nE+JWMt0mROV85hRHOYNOa8SR3OErv9S5qfD1j95Q9+u7bOjR/X+f3XPzX2Pp2BJTr8F0lbBeK+04SMgUpFGSJhztBqv8tOp0BboKA5nSebXvaUuV//zpLmrkCmakHH50nZczRYOcLGUCXgII3mSa+iLc45WgPnSVefJ6qVv3F1TRWuUat+e3WedNUcKf85ks5ZYtaEKhwsB4ZkkJg5Sdw6RcKZYkdgmpYNMzwhU/xQusnK5zc9v7Var1HVGZr9r9NonyTmm0AvdjmwRiu13Rj3dqy3XyHuz5EIvEpYXubqt6tc+27V85s25IgHcjQ6OW9e1BzRe1ihykG3U4wjRH0jbLdGqXPGiPnHtCtG+enyLX5euaX+MRoCL1HvH6fOHqPWOsZW7aKg9JQr3KLBkN74sPkCEd8QUXuYWucIj8iAVtqt8Lrnu7GofZht1rC24kE9bhZ3bVnrbZEDbJZuNhvdBM0DhHxZIla/Wh8Py7Nq+wnbvWpZQpaOa48HjR7t+ecU+HyFHBrZO01W7kK9TL6YsfNd7otyr9dmYCMPtNlzXe5cd03QyK7dVfgvorCVoRCBn0oAAAAASUVORK5CYII=\",\"DarkContentUrl\":\"http://finance.yahoo.com/\",\"LightContentUrl\":\"http://finance.yahoo.com/\"},\"Links\":{\"AdditionalHelpMenu\":{\"IsEnabled\":true,\"HelpName\":\"Go to spotware.com\",\"HelpUrl\":\"http://www.spotware.com/\"},\"AdditionalLinksMenu\":{\"IsEnabled\":true,\"GroupName\":\"Privacy Policy\",\"Link1\":{\"Name\":\"Privacy Policy\",\"Url\":\"https://www.spotware.com/privacy-policy\",\"IsEnabled\":true},\"Link2\":{\"Name\":null,\"Url\":\"http://\",\"IsEnabled\":false},\"Link3\":{\"Name\":null,\"Url\":\"http://\",\"IsEnabled\":false}}},\"Leverages\":{\"AllowedLeverages\":[1,2,5,10,20,25,30,50,75,100,200,400,500,1000]},\"Language\":{\"CultureName\":\"en-US\",\"AutomaticallyDetectCulture\":true},\"ProfileManagement\":{\"IsEnabled\":false,\"IsFluidOnboardingEnabled\":false,\"UserAgreementUrl\":\"http://\",\"RiskDisclosureUrl\":\"http://\",\"OrderExecutionPolicyUrl\":\"http://\",\"PrivacyAndCookiePolicyUrl\":\"http://\",\"DocsEmail\":null},\"IntroducingBrokers\":{\"EnableGiveBonus\":false,\"EnablePartnerCenter\":false,\"EnablePartnerAgreement\":false,\"PartnerAgreementUrl\":\"http://\"},\"ChangingAccountProperties\":{\"Currency\":true,\"Leverage\":true,\"AccountType\":true},\"BrokerOAuth\":{\"DemoAccountCreationPageUrl\":\"\",\"LiveAccountCreationPageUrl\":\"\",\"CredentialsChangingPageUrl\":\"\",\"AccountDeletionPageUrl\":\"\",\"FirstAccountType\":\"Live\",\"FirstDemoAccountCreationMethod\":\"Url\",\"AllowCreationOfAdditionalDemoAccountsInBrokerOAuth\":false,\"AdditionalDemoAccountCreationMethod\":\"Url\",\"InAppDemoAccountDefaultGroupId\":1000,\"InAppDemoAccountAllowedAccountTypes\":\"HedgedAndNetted\",\"InAppDemoAccountDefaultLeverage\":100,\"InAppDemoAccountDefaultDeposit\":1000,\"AllowDemoAccountsDeposit\":false,\"DemoAccountsDepositPageUrl\":\"\",\"AllowDemoAccountsWithdrawal\":false,\"DemoAccountsWithdrawalPageUrl\":\"\",\"LiveAccountsDepositPageUrl\":\"\",\"LiveAccountsWithdrawalPageUrl\":\"\"},\"ContactInformation\":{\"ContactPhone\":\"+357 25 344901\",\"ContactFax\":\"+357 25 345422\",\"ContactWeb\":\"https://spotware.com\",\"ContactEmail\":\"info@ctrader.com\"},\"Type\":\"Gui\"}}"
+        },
+        {
+          "name": "locale",
+          "value": "en"
+        },
+        {
+          "name": "cookie:accepted",
+          "value": "false"
+        },
+        {
+          "name": "cookie:analytic",
+          "value": "true"
+        },
+        {
+          "name": "cookie:necessary",
+          "value": "true"
+        },
+        {
+          "name": "firstAuthorization",
+          "value": "true"
+        },
+        {
+          "name": "cookie:thirdParty",
+          "value": "true"
+        }
+      ]
+    }
+  ]
+}

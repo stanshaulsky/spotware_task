@@ -1,0 +1,21 @@
+{
+  "name": "spotware_task",
+  "version": "1.0.0",
+  "description": "Spotware QA position test task",
+  "main": "index.js",
+  "scripts": {
+    "pw:chrome": "playwright test --project=chromium",
+    "pw:chrome_authorised": "playwright test --project=chromium_authorised",
+    "pw:chrome_debug": "playwright test --project=chromium --debug"
+  },
+  "author": "Stanislav Shaulsky",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.43.1",
+    "@types/node": "^20.12.7"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "prettier": "^3.2.5"
+  }
+}
