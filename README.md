@@ -1,4 +1,4 @@
- # Spoware playwright test task.
+ # Spotware playwright test task.
  ## Setup
  Create .env file with credentials for authorization, should look like this:
  ```
